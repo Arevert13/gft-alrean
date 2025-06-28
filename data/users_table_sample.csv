@@ -1,0 +1,11 @@
+user_id,nombre,email,grupo,asignatura
+u1,Ana,ana@edem.edu,GrupoA,Matemáticas
+u2,Juan,juan@edem.edu,GrupoA,Matemáticas
+u3,Lucia,lucia@edem.edu,GrupoA,Matemáticas
+u4,Pablo,pablo@edem.edu,GrupoB,Historia
+u5,Elena,elena@edem.edu,GrupoB,Historia
+u6,Raúl,raul@edem.edu,GrupoB,Historia
+u7,Carmen,carmen@edem.edu,GrupoC,Economía
+u8,David,david@edem.edu,GrupoC,Economía
+u9,Sara,sara@edem.edu,GrupoC,Economía
+u10,Mario,mario@edem.edu,GrupoC,Economía
